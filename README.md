@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **School attendance ap**
 
-- 📫 How to reach me **chintuswarnkar5@gmail.com**
+- 📫 How to reach me **vishnuswarmkar78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
