@@ -10,6 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vishnu__98sr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu__98sr_" height="30" width="40" /></a>
+  <a href="https://www.pinterest.com/your-profile" target="_blank">
+  <img src="pinterest_logo.png" alt="Pinterest" width="100" height="100">
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
