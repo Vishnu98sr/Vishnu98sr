@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu98sr&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu98sr" /> </p>
 
-- 🔭 I’m currently working on **School attendance ap**
+- 🔭 I’m currently working on **School attendance app**
 
 - 📫 How to reach me **vishnuswarmkar78@gmail.com**
 
